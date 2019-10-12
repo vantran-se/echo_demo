@@ -1,0 +1,6 @@
+MongoDB:
+  Host: localhost
+  Username: root
+  Password: root
+Encrypt:
+  Jwt: ahihi
